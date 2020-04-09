@@ -28,5 +28,5 @@ This repo contains a drug repurposing docking experiment against the COVID-19 ma
 
 10. Top 50 drugs (DrugBank ID and drug name) with their corresponding binding affinity change (kcal/mol) are in the following table and they are also provided in this [CSV](https://github.com/ammar257ammar/virtualbiohackathon/blob/master/Covid19Top50.csv) file.
 
-
+11. It is worth mentioning that the drug "Ivermectin" (drug # 38 in the list in the [CSV]((https://github.com/ammar257ammar/virtualbiohackathon/blob/master/Covid19Top50.csv))) has been found to be able to kill the covid-19 virus in the lab in 48 hours [News](https://www.sciencetimes.com/articles/25206/20200404/anti-parasitic-drug-found-kill-covid-19-lab-within-48.htm)
 
